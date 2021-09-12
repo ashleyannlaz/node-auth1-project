@@ -1,12 +1,12 @@
 # Introduction to Authentication Module Project
 
-## Introduction
+## Introduction - Done
 
 Use `Node.js`, `Express` and `Knex` to build an API that provides register, login and logout functionality.
 
 ## Instructions
 
-### Task 1: Project Setup
+### Task 1: Project Setup - Done
 
 Your instructor should have communicated which method to use for this project during the Guided Project and in your cohort's Slack channel. If you are still unsure, reach out to Lambda Staff.
 
@@ -16,10 +16,10 @@ Your instructor should have communicated which method to use for this project du
 
 Write the following user access functions inside `api/users/users-model.js`:
 
-- [ ] `find`
-- [ ] `findBy`
-- [ ] `findById`
-- [ ] `add`
+- [x] `find`
+- [x] `findBy`
+- [x] `findById`
+- [x] `add`
 
 #### 2B - Middleware Functions
 
